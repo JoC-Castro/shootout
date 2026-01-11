@@ -93,7 +93,7 @@ function handleShootClick() {
 }
 
 function startStage(windowTime) {
-    if (stage === 1 || stage === 2) {
+    if (stage < 3) {
         gameStartSound();
     } else {
         gameStartSoundFinal();
@@ -186,8 +186,10 @@ function gameStartSoundFinal() {
 function updateUI() {
     hero.src = "./imgs/hero.png";
     enemy.src = "./imgs/enemy.png";
+
     indicador.style.backgroundColor = "";
     indicador.textContent = "";
+
     canShoot = false;
     reacted = false;
     preShootTimer = null;
