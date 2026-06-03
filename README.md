@@ -6,7 +6,7 @@ El código mantiene una estructura simple, sin una arquitectura compleja ni gran
 
 ---------
 
-##  ## English Version
+## English Version
 
 Small reaction game developed in JavaScript as an early exploration of the language. One of my first projects, focused on practicing logic and DOM manipulation.
 
