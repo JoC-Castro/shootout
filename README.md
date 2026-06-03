@@ -4,7 +4,9 @@ Pequeño juego de reacción desarrollado en JavaScript como una exploración tem
 
 El código mantiene una estructura simple, sin una arquitectura compleja ni grandes procesos de refactorización, reflejando una etapa inicial de aprendizaje y experimentación.
 
-##  english
+---------
+
+##  ## English Version
 
 Small reaction game developed in JavaScript as an early exploration of the language. One of my first projects, focused on practicing logic and DOM manipulation.
 
